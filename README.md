@@ -1,4 +1,4 @@
-# Poltergeist
+# Poltergeist - Automated Consumerism 👻
 ## A Model Context Protocol Server For LLMs To Buy And Sell Anything
 
 ### Tech Stack
