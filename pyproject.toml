@@ -1,0 +1,17 @@
+[project]
+name = "poltergeist"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.12",
+    "fastmcp>=2.3.4",
+    "firecrawl-py>=2.6.0",
+    "httpx>=0.28.1",
+    "mcp[cli,proxy]>=1.9.0",
+    "python-dotenv>=1.1.0",
+    "supabase>=2.15.1",
+    "uvicorn[standard]>=0.34.2",
+    "mcp-proxy"
+]
